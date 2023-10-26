@@ -20,4 +20,29 @@
   <li>Reverse DNS</li>
   <li>Google Dorking</li>
   </ul>
+  
+## Cover
+
+<div align="left">
+  <a href="https://imgur.com/H7ykD6w">
+    <img src="https://i.imgur.com/H7ykD6w.png" alt="Cover Image" />
+  </a>
+</div>
+
+## Project Walk-through
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+    Critical Executable Vulnerability Using Social Enginnering on Employees to run Remote code Execution 
+
+    Phishing Attack via CVE-2021-40444
+
+Microsoft MSHTML Remote Code Execution Vulnerability
+  </div>
+  <div style="flex: 1;">
+    <a href="https://imgur.com/AM4TQOZ">
+      <img src="https://i.imgur.com/AM4TQOZ.jpg" alt="Findings Image" />
+    </a>
+  </div>
+</div>
 
