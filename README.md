@@ -1,4 +1,4 @@
-<h1>Project Name: Open Source Intelligence</h1>
+<h1>Open Source Intelligence</h1>
 
 <h2>Executive Summary</h2>
 <p>
